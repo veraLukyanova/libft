@@ -3,7 +3,7 @@
 Libft  - this is C programming standard functions. This project is about understanding the way these functions work,
 implementing and learning to use them.
 
-## Creating your own library on the C programming.
+## Own library on the C programming.
 
 ## Libc functions
 
