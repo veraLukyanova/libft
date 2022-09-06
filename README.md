@@ -1,9 +1,8 @@
-# libft
+# Own library on the C programming.
 
-Libft  - this is C programming standard functions. This project is about understanding the way these functions work,
-implementing and learning to use them.
+## libft
 
-## Own library on the C programming.
+Libft is a proprietary library in which functions repeat the behavior of standard functions from libraries in the C language.
 
 ## Libc functions
 
