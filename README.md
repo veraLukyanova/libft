@@ -2,7 +2,7 @@
 
 ## libft
 
-Libft is a proprietary library in which functions repeat the behavior of standard functions from libraries in the C language.
+Libft is a library in which functions repeat the behavior of standard functions from libraries in the C language.
 
 ## Libc functions
 
