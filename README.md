@@ -1,10 +1,11 @@
-# Own library on the C programming.
+# libft
 
-## libft
+## Собственная библиотека, в которой часть функций повторяет поведение стандартных функций из библиотек написанных для языка программированаия С.
+## В составе 43 функции.
 
-Libft is a library in which functions repeat the behavior of standard functions from libraries in the C language.
+##Функции библиотеки:
 
-## Libc functions
+## Часть 1 - Основные функции:
 
 • isalpha • isdigit • isalnum • isascii • isprint • strlen • memset • bzero
 
@@ -12,20 +13,17 @@ Libft is a library in which functions repeat the behavior of standard functions 
 
 • strncmp • memchr • memcmp • strnstr • atoi
 
-In order to implement the two following functions, you will use malloc():
-
 • calloc
 
 • strdup
 
-
-## Part 2 - Additional functions
+## Часть 2 - Дополнительные функции:
 
 • ft_substr • ft_strjoin • ft_strtrim • ft_split • ft_itoa • ft_strmapi • ft_striteri
 
 • ft_putchar_fd • ft_putstr_fd • ft_putendl_fd • ft_putnbr_fd
 
-## Bonus part
+## Функции для работы со структурами
 
 • ft_lstnew • ft_lstadd_front • ft_lstsize • ft_lstlast
 
